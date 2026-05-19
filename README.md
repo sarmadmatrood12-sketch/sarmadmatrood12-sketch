@@ -17,19 +17,20 @@ I recently completed the full-time full stack web development program at Dev Aca
   Spam-I-Am
 </h2>
 <p>
-  This was a teacher-led project about creating a playful and engaging web page designed for spam enthusiasts. It features interactive games and a community rating system as well as quirky content and[...]
-</p>
+This was a teacher-led project about creating a playful and engaging web page designed for spam enthusiasts. It features interactive games and a community rating system aswell as quirky content focused on spam. It has a friendly home page, about page, games section, ratings system , commenting and a personality quiz.</p>
 <h2>💡
   Jim Hickey
 </h2>
 <p>
-  This group project was about creating a weather forecast web page that displayed the weather conditions in different regions of New Zealand. It used an external API called Newa to get the live tempe[...]
+This group project was about creating a weather forecast web page that displayed the weather conditions in different reigons of New Zealand. It used an external API called Newa to get the live temperatures at the different reigons. It has a user friendly layout and design.
+
 </p>
 <h2>💡
   Laser Birds
 </h2>
 <p>
-  This project was about creating a web-page that allowed people to spot birds native to New Zealand and post it to the webpage. You could use the webpage UI to add your name next to the bird you spot[...]
+This project was about creating a web-page that allowed people to spot birds native to New Zealand and post it to the webpage. You could use the webpage UI to add your name next to the bird you had seen and if the bird had already been spotted by someone else, there name would be displayed next to the native birds name.
+
 </p>
 <h1>🛠️ Tech Stack</h1>
 <h2>🎨 Frontend</h2>
